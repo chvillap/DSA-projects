@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 .Rhistory
 .Rproj.user
+*.old
 *.txt
