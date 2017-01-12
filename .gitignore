@@ -2,4 +2,5 @@
 .Rhistory
 .Rproj.user
 *.old
+*.zip
 *.txt
