@@ -2,5 +2,6 @@
 .Rhistory
 .Rproj.user
 *.old
+*.bak
 *.zip
 *.txt
