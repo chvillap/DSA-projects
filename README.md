@@ -1,3 +1,3 @@
 # DSA-projects
 
-Mini data science projects.
+Mini projects in Data Science.
